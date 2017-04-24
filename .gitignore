@@ -1,5 +1,2 @@
-#Ignorar os arquivos .o
-*.o
-
 #Ignorar os arquivos em edicao
 *.swp

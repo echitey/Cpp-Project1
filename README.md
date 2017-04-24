@@ -6,7 +6,7 @@ Rafael Fernando Silva
 
 ## Como executar:  
 ### Usando o terminal(recomendado)  
-Basta dar un clone no projeto e, acessando o diretorio do projeto usando o terminal, executar o comando "./main"  
+Basta dar un clone no projeto e, acessando o diretorio do projeto usando o terminal, executar o comando "./main".  
 Caso queira recompilar de novo, executar os seguintes comandos:  
 ```bash
 $ g++ -c ponto.cpp
